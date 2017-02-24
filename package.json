@@ -1,0 +1,25 @@
+{
+  "name": "BooksStuff",
+  "version": "1.0.0",
+  "description": "hd",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "^2.3.4",
+    "expres": "^0.0.5",
+    "express": "^4.14.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luigi Ardiano",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyanHemrick/star_wars_app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RyanHemrick/star_wars_app/issues"
+  },
+  "homepage": "https://github.com/RyanHemrick/star_wars_app#readme"
+}
